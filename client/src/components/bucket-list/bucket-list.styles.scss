@@ -1,0 +1,14 @@
+
+.bucket-list-container {
+  .title {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  .list-item {
+    color: blue;
+    cursor: pointer;
+    &:hover {
+      color: darken($color: blue, $amount: 0.1);
+    }
+  }
+}

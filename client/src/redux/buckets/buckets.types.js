@@ -1,0 +1,2 @@
+export const GET_ALL_BUCKETS = 'GET_ALL_BUCKETS';
+export const CREATE_NEW_BUCKET = 'CREATE_NEW_BUCKET';

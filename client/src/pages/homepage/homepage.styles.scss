@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  .bucket-input-container{
+    display: flex;
+    align-items: center;
+    input {
+      margin-right: 20px;
+    }
+
+    .add-bucket {
+      width: 200px;
+    }
+  }
+}
